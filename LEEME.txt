@@ -1,0 +1,20 @@
+MAQUETA - SITIO DE LA MUNICIPALIDAD DE CERVANTES
+================================================
+
+Abrir index.html con doble clic (Chrome, Edge o Firefox).
+
+Paginas: index, noticias, contacto, desarrollo-social, cultura, deporte,
+historia, concejo, boletin, transparencia, edictos.
+
+- El contenido se tomo de municipiodecervantes.gob.ar el 21/10/2026.
+- Transparencia suma datos oficiales de la Provincia de Rio Negro y del
+  INDEC (coparticipacion, aportes, obras, poblacion), con su fuente.
+- Las fotos, PDFs y videos se cargan desde el sitio actual del municipio
+  (hace falta conexion a internet para verlos).
+- assets/data.js: noticias del sitio, Boletin Oficial, horarios de deporte.
+- assets/facebook.js: publicaciones de Facebook. Se actualiza solo con
+  herramientas/actualizar_facebook.py (necesita un token de la pagina;
+  instrucciones adentro del script).
+- assets/*.csv: datos abiertos para descargar.
+- Los formularios abren WhatsApp con el mensaje armado; no guardan datos.
+- Es una maqueta: no es el sitio oficial.
